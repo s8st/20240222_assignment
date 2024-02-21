@@ -42,7 +42,7 @@
                     "path": "<Keyboard>/w",
                     "interactions": "",
                     "processors": "",
-                    "groups": "K&M&T",
+                    "groups": "KM",
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -53,7 +53,7 @@
                     "path": "<Keyboard>/s",
                     "interactions": "",
                     "processors": "",
-                    "groups": "K&M&T",
+                    "groups": "KM",
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -64,7 +64,7 @@
                     "path": "<Keyboard>/a",
                     "interactions": "",
                     "processors": "",
-                    "groups": "K&M&T",
+                    "groups": "KM",
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -75,7 +75,7 @@
                     "path": "<Keyboard>/d",
                     "interactions": "",
                     "processors": "",
-                    "groups": "K&M&T",
+                    "groups": "KM",
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -86,7 +86,7 @@
                     "path": "<Mouse>/position",
                     "interactions": "",
                     "processors": "",
-                    "groups": "K&M&T",
+                    "groups": "KM",
                     "action": "Look",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -96,8 +96,8 @@
     ],
     "controlSchemes": [
         {
-            "name": "K&M&T",
-            "bindingGroup": "K&M&T",
+            "name": "KM",
+            "bindingGroup": "KM",
             "devices": [
                 {
                     "devicePath": "<Keyboard>",

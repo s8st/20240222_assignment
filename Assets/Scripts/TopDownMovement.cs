@@ -67,7 +67,7 @@ public class TopDownMovement : MonoBehaviour
 
     private void Start()
     {
-        _Controller.OnMoveEvent += Move;
+        _Controller.OnMoveEvent += Move;  
     }
 
     // 물리법칙은 FixedUpdate에 넣는다
