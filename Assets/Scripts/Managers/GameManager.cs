@@ -27,7 +27,7 @@ public class GameManager : MonoBehaviour
 {
   public static GameManager Instance;
 
-    public List<Character> CharacterList = new List<Character>();
+    public List<Character> CharacterList = new List<Character>(); // 펭귄하고 기사
 
     public Animator PlayerAnimator; // 에니메이터컨트롤러에 넣기 위해???
     public Text PlayerName;
