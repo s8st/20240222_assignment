@@ -21,8 +21,12 @@ public class TopDownAimRotation : MonoBehaviour
 
     public  void OnAim(Vector2 direction)
     {
-        //  90도를 기준으로 좌우 반전
+        
+        // (x,y)의 각도 구하기
         float rotZ = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+
+        //  90도를 기준으로 좌우 반전
+        //-가 안나오게 절대값, 
         characterRenderer.flipX = Mathf.Abs(rotZ) > 90f;
 
     }

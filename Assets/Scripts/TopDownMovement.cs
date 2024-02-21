@@ -83,7 +83,7 @@ public class TopDownMovement : MonoBehaviour
 
     private void ApplyMovement(Vector2 direction)
     {
-        direction *= 5; // direction는 지금 단위벡터, 크기 1인 방향만 가진 벡터
+        direction *= 15; // direction는 지금 단위벡터, 크기 1인 방향만 가진 벡터
 
         // transform.position   : 좌표값을 이동하는 방법
         //rigidbody는 마찰력, 질량 등 물리 법칙에 의해 움직임 

@@ -13,7 +13,7 @@ public class TopDownCharacterController : MonoBehaviour
     // public delegate void OnMoveDel(Vector2 direction);
     public event Action<Vector2> OnMoveEvent;
 
-    // 반환값이 있으면 Func, 반호나값 없으면 Action
+    // 반환값이 있으면 Func, 반환값 없으면 Action
     // public delegate int OnMoveDel(Vector2 direction);
     // public event Func<Vector2> OnMoveEvent;
     ////////////////////////////////////////////////////////////////
