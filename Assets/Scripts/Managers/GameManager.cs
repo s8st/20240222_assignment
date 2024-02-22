@@ -40,6 +40,9 @@ public class GameManager : MonoBehaviour
 
         else // Instance가 사용중이라면 지금 gameObject(=GameManager)를 파괴
             Destroy(gameObject);
+
+        DontDestroyOnLoad(gameObject); // 게임오브젝트를 유지하기 위해
+
     }
 
 
