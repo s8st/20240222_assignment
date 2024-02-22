@@ -7,6 +7,8 @@
 3. 최소한의 필수요구사항만 구현하셨다면 위 시간을 활용해 어떤 학습을 했고 시도를 했는지 나열해주세요.
 - 1월 22일 과제 영상을 보면서 완성하지 못한 과제를 완성할 수 있도록 노력하였습니다
 
+https://github.com/s8st/netpong2_off_falback/blob/main/0222gif.gif
+
 # 20240222_assignment
  
 리드미 작성
