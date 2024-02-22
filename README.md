@@ -8,7 +8,8 @@
 - 1월 22일 과제 영상을 보면서 완성하지 못한 과제를 완성할 수 있도록 노력하였습니다
 - 맵 추가하고 씬을 2개 만들어서 시작화면에서 게임화면으로 넘어가는 버튼을 만들었습니다.
 
-https://github.com/s8st/netpong2_off_falback/blob/main/0222gif.gif
+![Screensh](https://github.com/s8st/netpong2_off_falback/blob/main/0222gif.gif)
+
 
 # 20240222_assignment
  
